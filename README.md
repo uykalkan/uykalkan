@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning "more javascript"
+- 📫 How to reach me: uykalkan@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uykalkan&count_private=true)
 
 <!--
